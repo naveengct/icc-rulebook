@@ -1,0 +1,4 @@
+llama_index==0.8.47
+openai==0.28.1
+python-dotenv==1.0.0
+streamlit==1.27.2
